@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,gBAAgB,CAAC;EACf,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,gBAAgB,ECJL,OAAe;EDK1B,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;EACnB,MAAM,EAAE,IAAI;CACb;;AAED,AAAA,gBAAgB,CAAC,CAAC,CAAC;EACjB,KAAK,ECXM,OAAkB;EDY7B,SAAS,EAAE,IAAI;EACf,eAAe,EAAE,IAAI;EACrB,WAAW,ECXD,KAAK,EAAE,SAAS,EAAE,UAAU;EDYtC,MAAM,EAAE,IAAI;CACb",
+    "sources": [
+        "SecondaryNavbar.scss",
+        "Variables.scss"
+    ],
+    "names": [],
+    "file": "SecondaryNavbar.css"
+}
