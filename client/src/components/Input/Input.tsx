@@ -24,7 +24,7 @@ const PrimaryNavbar: FunctionComponent<{ operation: Operations }> = ({
       {operation === Operations.ADD || operation === Operations.UPDATE ? (
         <>
           <input
-            value={addOperationData?.fromId}
+            // value={addOperationData?.fromId}
             onChange={(e) =>
               setAddOperationData({
                 ...addOperationData,
